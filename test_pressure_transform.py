@@ -2,7 +2,7 @@
 Unit tests for the calculator module using pytest.
 """
 
-from calculator import add
+from pressure_transform import add
 
 def test_add_positive_numbers():
     assert add(2, 3) == 5

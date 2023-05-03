@@ -51,8 +51,7 @@ test_calculator.py .... [100%]
 Name                 Stmts   Miss  Cover
 ----------------------------------------
 calculator.py            2      0   100%
-test_calculator.py      10      0   100%
 ----------------------------------------
-TOTAL                   12      0   100%
+TOTAL                    2      0   100%
 ```
 
